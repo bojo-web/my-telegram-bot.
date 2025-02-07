@@ -1,1 +1,1 @@
-worker: python3 janusotpbot.py
+worker: python3 BOJOotpbot.py
